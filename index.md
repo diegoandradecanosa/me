@@ -20,4 +20,4 @@ I am associated teacher at the Universidade da Coruña, Spain.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+ Check the complete list of publications at [Google Scholar](https://scholar.google.es/citations?user=vzjF9GMAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/38/10.html) profiles
