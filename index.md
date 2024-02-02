@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am associated teacher at the Universidade da Coruña, Spain. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **High-Performance Computing:** GPGPU, Artificial Intelligence
+- **Quantum Computing:** benchmarking, variational algorithms
 
 ## News
 
